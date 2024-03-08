@@ -1,0 +1,40 @@
+body {
+	font-family: Arial, sans-serif;
+	background-image: url(chat.jpeg) ;
+	color: cyan;
+  font-size: xx-large;
+}
+
+#posts {
+	margin-bottom: 10px;
+font-size: xx-large;
+}
+
+textarea {
+	width: 100%;
+	height: 100px;
+}
+.wrapper{ 
+    margin-top: 100px;
+    background-color: #03a9f4;
+    width: 95%;
+    background: transparent;
+    border: 2px solid rgb(255, 255,255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgb(0, 0 , 0 ,.2);
+    height: 100% ;
+    border-radius: 10px;
+    margin: 100px auto;
+  
+  }
+  .t{
+    font-size: xx-large;
+    color: white;
+    padding-left: 500;
+  }
+  .x{
+	width: 100px;
+	height: 100px;
+	color: blue;
+	font-size: xx-large;
+  }
